@@ -177,6 +177,5 @@ mysql -u your_username -p your_database < sql/business_analysis_queries.sql
 Data Analyst
 
 Email: saitejanarla123@gmail.com
-
 🔗 Linkedin:https://www.linkedin.com/in/saiteja-narla
 🔗 [GitHub](https://github.com/saitejanarla123)
