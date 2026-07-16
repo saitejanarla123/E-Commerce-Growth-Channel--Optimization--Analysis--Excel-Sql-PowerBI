@@ -1,0 +1,10 @@
+# Optional Python dependencies for querying MySQL and generating supplementary
+# reports/visualizations from this project. Core data cleaning for this
+# project was done in Excel and core analysis in MySQL — these packages are
+# only needed if you run the optional Python scripts/notebooks in this repo.
+
+pandas==2.2.2
+mysql-connector-python==8.4.0
+sqlalchemy==2.0.30
+python-dotenv==1.0.1
+matplotlib==3.8.4
