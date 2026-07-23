@@ -73,32 +73,29 @@ product_id, created_at, product_name
 
 ```
 E-Commerce-Growth-Channel-Optimization-Analysis-Maven-Fuzzy-Factory/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── Maven Fuzzy Factory Insights Report.pdf
-│
+
 ├── data/                        # Raw and cleaned data exports
-│   ├── raw/
-│   └── cleaned/                 # Cleaned Data 
+│  ├── raw/
+│  └── cleaned/                 # Cleaned Data 
 │
-├── sql/                         # MySQL schema and analysis queries
-│   ├── schema_and_load.sql
-│   └── business_analysis_queries.sql
+├── sql/                         # MySQL analysis queries
+│  └── business_analysis_queries.sql
 │
 ├── dashboard/                   # Power BI dashboard file
-│   └── maven_fuzzy_factory_dashboard.pbix
-│
+│  └──  E-Commerce Growth Channel Optimization Analysis.pbix
+│  └──  Marketing & Traffic Page-1
+│  └──  Sales & Revenue Page-2
+│  └──  Business Recommendations Final Page
+│ 
 └── docs/                        # Problem statement + goals
-│   └── +-- business_context.md
+│  └── +-- business_context.md
 │
 └── .gitignore
-└──LICENSE
-└──README.md
-└──requirements.txt
+└── LICENSE
+└── README.md
+└── requirements.txt
 ```
-
+    
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
@@ -135,10 +132,12 @@ E-Commerce-Growth-Channel-Optimization-Analysis-Maven-Fuzzy-Factory/
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- Two-page Power BI dashboard:
+- Power BI dashboard:
   - **Page 1 – Marketing/Traffic**: sessions by channel, conversion funnel, campaign performance
+  ![alt text](<03 Dashboard/Marketing & Traffic Page-1.png>)!
   - **Page 2 – Sales/Revenue**: revenue trends, revenue per order/session, product performance
-
+  ![alt text](<03 Dashboard/Sales & Revenue Page-2.png>)
+   **Page 3 – Business Recommendations **: ![alt text](<03 Dashboard/Business Recommendations Final Page.png>)
 
 
 ---
