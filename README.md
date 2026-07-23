@@ -134,10 +134,10 @@ E-Commerce-Growth-Channel-Optimization-Analysis-Maven-Fuzzy-Factory/
 
 - Power BI dashboard:
   - **Page 1 – Marketing/Traffic**: sessions by channel, conversion funnel, campaign performance
-  ![alt text](<Dashboard/Marketing & Traffic Page-1.png>)!
+  ![alt text](<Dashboard/Marketing & Traffic Page-1.png>)
   - **Page 2 – Sales/Revenue**: revenue trends, revenue per order/session, product performance
   ![alt text](<Dashboard/Sales & Revenue Page-2.png>)
-   **Page 3 – Business Recommendations **: ![alt text](<Dashboard/Business Recommendations Final Page.png>)
+  -  **Page 3 – Business Recommendations**:![alt text](<Dashboard/Business Recommendations Final Page.png>)
 
 
 ---
